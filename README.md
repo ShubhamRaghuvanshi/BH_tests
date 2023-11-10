@@ -8,8 +8,9 @@
 &nbsp; $\color{green} \text{Done  }, \color{orange} \text{In progress  }, \color{Red} \text{To be started soon} $
 
 + $\color{green} \text{Tests with SINKTEST and MCTracer disabled}$
+  
 + + $\color{green} 128^3 \text{DM only run}$
-    
+     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ramsesCRAL
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,4 +31,75 @@
 </table>
 
 ![alt text](test_0_diff.png)
+
++ + $\color{green} 128^3 \text{DM + gas + cooling}$
+     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ramsesCRAL
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ramsesSINKAGN 
+
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="dmdens_gascool_z_cral.png" alt="" width="600" />
+    </td>
+    <td>
+      <img src="dmdens_gascool_z_SINKAGN.png" alt="" width="600" />
+    </td>
+  </tr>
+</table>
+
+![alt text](test0_2_diff.png)
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="gasdens_gascool_z_cral.png" alt="" width="600" />
+    </td>
+    <td>
+      <img src="gasdens_gascool_z_SINKAGN.png" alt="" width="600" />
+    </td>
+  </tr>
+</table>
+
+![alt text](test0_3_diff.png)
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="gastemp_gascool_z_cral.png" alt="" width="600" />
+    </td>
+    <td>
+      <img src="gastemp_gascool_z_SINKAGN.png" alt="" width="600" />
+    </td>
+  </tr>
+</table>
+
+![alt text](test0_4_diff.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

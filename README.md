@@ -22,15 +22,15 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%;">
-      <img src="dmdens_z_cral.png" alt="" width="600" />
+      <img src="dmdens_dmonly_z_cral.png" alt="" width="600" />
     </td>
     <td>
-      <img src="dmdens_z_sinkagn.png" alt="" width="600" />
+      <img src="dmdens_dmonly_z_sinkagn.png" alt="" width="600" />
     </td>
   </tr>
 </table>
 
-![alt text](test_0_diff.png)
+![alt text](test0_1_diff.png)
 
 + + $\color{green} 128^3 \text{DM + gas + cooling}$
      

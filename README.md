@@ -15,10 +15,10 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%;">
-      <img src="DMdens_00001.png" alt="" width="600" />
+      <img src="dmdens_z_cral.png" alt="" width="600" />
     </td>
     <td>
-      <img src="DMdelrho_00001.png" alt="" width="600" />
+      <img src="dmdens_z_SINKAGN.png" alt="" width="600" />
     </td>
   </tr>
 </table>

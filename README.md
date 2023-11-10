@@ -25,7 +25,7 @@
       <img src="dmdens_z_cral.png" alt="" width="600" />
     </td>
     <td>
-      <img src="dmdens_z_SINKAGN.png" alt="" width="600" />
+      <img src="dmdens_z_sinkagn.png" alt="" width="600" />
     </td>
   </tr>
 </table>
@@ -48,7 +48,7 @@
       <img src="dmdens_gascool_z_cral.png" alt="" width="600" />
     </td>
     <td>
-      <img src="dmdens_gascool_z_SINKAGN.png" alt="" width="600" />
+      <img src="dmdens_gascool_z_sinkagn.png" alt="" width="600" />
     </td>
   </tr>
 </table>
@@ -61,7 +61,7 @@
       <img src="gasdens_gascool_z_cral.png" alt="" width="600" />
     </td>
     <td>
-      <img src="gasdens_gascool_z_SINKAGN.png" alt="" width="600" />
+      <img src="gasdens_gascool_z_sinkagn.png" alt="" width="600" />
     </td>
   </tr>
 </table>
@@ -74,7 +74,7 @@
       <img src="gastemp_gascool_z_cral.png" alt="" width="600" />
     </td>
     <td>
-      <img src="gastemp_gascool_z_SINKAGN.png" alt="" width="600" />
+      <img src="gastemp_gascool_z_sinkagn.png" alt="" width="600" />
     </td>
   </tr>
 </table>

@@ -98,7 +98,7 @@
 + + $\color{red} 128^3 \text{DM only}$  
 + + $\color{red} 128^3 \text{DM + gas + cooling}$
 + + $\color{red} 128^3 \text{DM + gas + cooling + star formation}$
-+ + $\color{orange} 128^3 \text{DM + gas + cooling + star + feedback}$
++ + $\color{red} 128^3 \text{DM + gas + cooling + star + feedback}$
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

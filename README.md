@@ -85,7 +85,8 @@
 
 ![alt text](test0_4_diff.png)
 
-+ + $\color{orange} 128^3 \text{DM + gas + cooling + star formation(rebinning)}$ 
++ + $\color{orange} 128^3 \text{DM + gas + cooling + star formation(rebinning)}$
++ + $\color{orange} 128^3 \text{DM + gas + cooling + star + feedback}$  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -97,7 +98,8 @@
 + + $\color{red} 128^3 \text{DM only}$  
 + + $\color{red} 128^3 \text{DM + gas + cooling}$
 + + $\color{red} 128^3 \text{DM + gas + cooling + star formation}$
-
++ + $\color{orange} 128^3 \text{DM + gas + cooling + star + feedback}$
+  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

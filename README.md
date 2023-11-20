@@ -172,7 +172,7 @@
   </tr>
 </table>
 
-![alt text](diff_feed_offall.png)
+![alt text](diff_feed_offall_256.png)
 
 
 
@@ -227,7 +227,7 @@
 ![alt text](diff_feed_s0.png)
 
 + + $\color{red} 256^3 \text{DM + gas + cooling + star + feedback}$
-![alt text](diff_feed_s0.png)
+![alt text](diff_feed_s0_256.png)
 
 
   

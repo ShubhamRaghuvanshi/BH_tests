@@ -182,7 +182,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp; (2) $\color{orange} \text{Tests with SINKTEST enabled at compile time but disabled in the run }$
 
-+ + $\color{red} 128^3 \text{DM + gas + cooling + star + feedback}$
++ + $\color{green} 128^3 \text{DM + gas + cooling + star + feedback}$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ramsesCRAL
@@ -226,7 +226,7 @@
 
 ![alt text](diff_feed_s0.png)
 
-+ + $\color{red} 256^3 \text{DM + gas + cooling + star + feedback}$
++ + $\color{green} 256^3 \text{DM + gas + cooling + star + feedback}$
     ![alt text](diff_feed_s0_256.png)
 
 
